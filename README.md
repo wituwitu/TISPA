@@ -18,6 +18,6 @@ El computador base se encarga de la paquetización y sincronización de los dato
 
 Para la revisión de errores de transmisión se aplica ARQ mediante ACKs enviados desde los receptores al nodo base. 
 
-Autores:
+## Autores
 * Catalina M. González Inostroza
 * Diego S. Wistuba La Torre
